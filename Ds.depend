@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1640574166 source:d:\level2\ds codes\ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListLinked.h"
+
+1640562974 source:d:\level2\ds codes\ds\stackarray.c
+	<stdio.h>
+	"StackArray.h"
+
+1640562986 d:\level2\ds codes\ds\stackarray.h
+
+1640565491 source:d:\level2\ds codes\ds\stacklinked.c
+	<stdio.h>
+	<stdlib.h>
+	"StackLinked.h"
+
+1640565491 d:\level2\ds codes\ds\stacklinked.h
+
+1640566897 source:d:\level2\ds codes\ds\queuearray.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueArray.h"
+
+1640566897 d:\level2\ds codes\ds\queuearray.h
+
+1640569589 source:d:\level2\ds codes\ds\queuelinked.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueLinked.h"
+
+1640569589 d:\level2\ds codes\ds\queuelinked.h
+
+1640571309 source:d:\level2\ds codes\ds\listarrat.c
+	<stdio.h>
+	<stdlib.h>
+	"ListArray.h"
+
+1640571309 d:\level2\ds codes\ds\listarray.h
+
+1640574141 d:\level2\ds codes\ds\listlinked.h
+
