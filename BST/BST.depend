@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1660664328 source:d:\level2\ds codes\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1661362935 source:d:\level2\ds codes\test\main.cpp
+	<iostream>
+
+1661363093 source:d:\test\ds codes\binarysearchtree\main.cpp
+	<iostream>
+
